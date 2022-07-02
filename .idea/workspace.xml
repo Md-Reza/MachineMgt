@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="info" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="735611e7-2d6b-417e-9bf4-04a64f224653" name="Default Changelist" comment="some logic change">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/retrofit/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/retrofit/Client.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Android\.android\avd\Nexus_5X_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MMS_SCANNER" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MMS_SCANNER" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MMS_SCANNER" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="27PGAP4C1C1M3ZdrXnDU1yD1eoh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="MMS_SCANNER.app" />
+    <property name="BundleExportedModule" value="MMS_SCANNER.app" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewC:/Users/cmarezwan/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/cmarezwan/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewF:/udemy/jet_pack/Newfolder/FinalProject/ComposeRecyclerView/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewF:/udemy/jet_pack/Newfolder/FinalProject/ComposeRecyclerView/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SmartSew/SmartSew" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Android_Project\MMS_SCANNER\MMS_SCANNER2\app\src\main\res\drawable-v24" />
+      <recent name="F:\Android_Project\MMS_SCANNER\MMS_SCANNER2\app\src\main\res\drawable" />
+      <recent name="F:\Android_Project\MMS_SCANNER\MMS_SCANNER2\app\src\main\res\layout" />
+      <recent name="F:\Android_Project\MMS_SCANNER\MMS_SCANNER2\app" />
+      <recent name="F:\Android_Project\MMS_SCANNER2\app\src\main\res\layout" />
+    </key>
+    <key name="android.template.-1442139045">
+      <recent name="com.example.mms_scanner.view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.mms_scanner.ui.cloudmessage" />
+      <recent name="com.example.mms_scanner.utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MMS_SCANNER.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735611e7-2d6b-417e-9bf4-04a64f224653" name="Default Changelist" comment="" />
+      <created>1649214163209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649214163209</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added 3 report">
+      <created>1650448402583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650448402583</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Modifie fragment notification">
+      <created>1650513231593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650513231593</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change notification sound">
+      <created>1650518401371</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650518401371</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modified filter condition">
+      <created>1650532167684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650532167684</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modification code">
+      <created>1650618578317</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650618578317</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modification code">
+      <created>1650772092275</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650772092275</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modification code">
+      <created>1650779585695</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650779585695</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added notification icon and menu change">
+      <created>1650856634423</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650856634423</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added notification icon and menu change">
+      <created>1650872222046</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650872222046</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added repair by">
+      <created>1651029867575</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651029867575</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added nav background color change">
+      <created>1651034067046</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651034067046</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added nav background color change">
+      <created>1651039126336</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651039126336</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Modified header name and added department id">
+      <created>1652095333732</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652095333732</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Just Check in">
+      <created>1652511617593</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652511617593</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add new report queue,inprogress,complete list">
+      <created>1652623858611</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652623858611</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add new report queue,inprogress,complete list">
+      <created>1652665807538</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1652665807538</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add new report queue,inprogress,complete list">
+      <created>1652677907852</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1652677907852</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add new report queue,inprogress,complete list">
+      <created>1652678037260</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1652678037260</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add new report queue,inprogress,complete list">
+      <created>1652678112162</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1652678112162</updated>
+    </task>
+    <task id="LOCAL-00024" summary="some design change">
+      <created>1652690672906</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652690672906</updated>
+    </task>
+    <task id="LOCAL-00025" summary="some design change">
+      <created>1652691592376</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652691592376</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add appi solutaion exception">
+      <created>1652771106486</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652771106486</updated>
+    </task>
+    <task id="LOCAL-00027" summary="some design change">
+      <created>1652786228049</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652786228049</updated>
+    </task>
+    <task id="LOCAL-00028" summary="some design change">
+      <created>1652789496650</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652789496650</updated>
+    </task>
+    <task id="LOCAL-00029" summary="some design change">
+      <created>1652839887055</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1652839887055</updated>
+    </task>
+    <task id="LOCAL-00030" summary="some design change">
+      <created>1652840756952</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1652840756952</updated>
+    </task>
+    <task id="LOCAL-00031" summary="some design change">
+      <created>1652856993137</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1652856993137</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add new api for solution exception">
+      <created>1652865310303</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652865310303</updated>
+    </task>
+    <task id="LOCAL-00033" summary="remove from date to date into queue and inprogress report">
+      <created>1652926531665</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652926531665</updated>
+    </task>
+    <task id="LOCAL-00034" summary="section design">
+      <created>1652942562681</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1652942562681</updated>
+    </task>
+    <task id="LOCAL-00035" summary="line design">
+      <created>1652942967946</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652942967946</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Dailog Design">
+      <created>1652943701276</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1652943701276</updated>
+    </task>
+    <task id="LOCAL-00037" summary="menue Design">
+      <created>1652947903943</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1652947903943</updated>
+    </task>
+    <task id="LOCAL-00038" summary="menue Design">
+      <created>1652948929636</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1652948929636</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added Api, Model and change Line design">
+      <created>1652955515790</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1652955515790</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added Api, Model and change Line design">
+      <created>1652956880240</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1652956880240</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added Api,All required work done, Model and change Line design">
+      <created>1653048612974</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1653048612974</updated>
+    </task>
+    <task id="LOCAL-00042" summary="al most finished">
+      <created>1653050425998</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1653050425998</updated>
+    </task>
+    <task id="LOCAL-00043" summary="al most finished">
+      <created>1653099119833</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1653099119833</updated>
+    </task>
+    <task id="LOCAL-00044" summary="al most finished">
+      <created>1653099430842</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1653099430842</updated>
+    </task>
+    <task id="LOCAL-00045" summary="all features updates">
+      <created>1653105623531</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1653105623531</updated>
+    </task>
+    <task id="LOCAL-00046" summary="all features updates">
+      <created>1653108868379</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1653108868379</updated>
+    </task>
+    <task id="LOCAL-00047" summary="rating fix">
+      <created>1653120466702</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1653120466702</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Sir requirment completed">
+      <created>1653382352253</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1653382352253</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Sir requirment completed">
+      <created>1653391954960</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1653391954960</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Sir design requirment completed">
+      <created>1653464917984</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1653464917984</updated>
+    </task>
+    <task id="LOCAL-00051" summary="pblm solved">
+      <created>1653719381927</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1653719381928</updated>
+    </task>
+    <task id="LOCAL-00052" summary="some logic change">
+      <created>1653899766171</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1653899766172</updated>
+    </task>
+    <task id="LOCAL-00053" summary="some logic change">
+      <created>1653900051352</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1653900051352</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified filter condition" />
+    <MESSAGE value="modification code" />
+    <MESSAGE value="Added notification icon and menu change" />
+    <MESSAGE value="Added repair by" />
+    <MESSAGE value="Added nav background color change" />
+    <MESSAGE value="Modified header name and added department id" />
+    <MESSAGE value="Just Check in" />
+    <MESSAGE value="add new report queue,inprogress,complete list" />
+    <MESSAGE value="add appi solutaion exception" />
+    <MESSAGE value="some design change" />
+    <MESSAGE value="add new api for solution exception" />
+    <MESSAGE value="remove from date to date into queue and inprogress report" />
+    <MESSAGE value="section design" />
+    <MESSAGE value="line design" />
+    <MESSAGE value="Dailog Design" />
+    <MESSAGE value="menue Design" />
+    <MESSAGE value="added Api, Model and change Line design" />
+    <MESSAGE value="added Api,All required work done, Model and change Line design" />
+    <MESSAGE value="al most finished" />
+    <MESSAGE value="all features updates" />
+    <MESSAGE value="rating fix" />
+    <MESSAGE value="Sir requirment completed" />
+    <MESSAGE value="Sir design requirment completed" />
+    <MESSAGE value="pblm solved" />
+    <MESSAGE value="some logic change" />
+    <option name="LAST_COMMIT_MESSAGE" value="some logic change" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>802</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDownQueue_Fragment.java</url>
+          <line>786</line>
+          <properties class="com.example.mms_scanner.ui.MachineBreakDownQueue_Fragment.BreakdownQueueExceptionAdapter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDownQueue_Fragment.java</url>
+          <line>383</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/Pending_Accept_Fragment.java</url>
+          <line>219</line>
+          <properties class="com.example.mms_scanner.ui.Pending_Accept_Fragment" method="getMachineBreakdownDetails">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>570</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/view/MainActivity.java</url>
+          <line>88</line>
+          <properties class="com.example.mms_scanner.view.MainActivity" method="dashboardViewPermission">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>1094</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>1084</line>
+          <properties class="com.example.mms_scanner.ui.MachineBreakDown_Fragment" method="saveException">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>439</line>
+          <properties class="com.example.mms_scanner.ui.MachineBreakDown_Fragment" method="machineBreakdown">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/cloudmessage/ReceiveNotificationActivity.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/cloudmessage/ReceiveNotificationActivity.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>691</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/InProgressReportFragment.java</url>
+          <line>313</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/status_report/MC_Breakdown_Queue_Fragment.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/HomeFragment.java</url>
+          <line>335</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/status_report/Repairs_CompleteList_Fragment.java</url>
+          <line>482</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/mms_scanner/ui/MachineBreakDown_Fragment.java</url>
+          <line>757</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

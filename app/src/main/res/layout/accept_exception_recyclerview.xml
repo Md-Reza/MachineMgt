@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/acceptExceptionqueueLayout"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_margin="1dp"
+    android:elevation="5dp"
+    app:cardCornerRadius="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/problemTextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:padding="5dp"
+            android:drawablePadding="5dp"
+            android:drawableLeft="@drawable/ic_baseline_radio_button_checked_24"
+            android:layout_weight="3"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

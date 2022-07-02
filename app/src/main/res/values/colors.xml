@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#37808D</color>
+    <color name="purple_700">#05616C</color>
+
+    <color name="logo_color_deep">#05616C</color>
+    <color name="logo_color_light">#37808D</color>
+
+    <!--    <color name="colorPrimary">#E64040</color>-->
+    <!--    <color name="colorPrimaryDark">#D32626</color>-->
+
+    <color name="colorPrimary">#37808D</color>
+    <color name="colorPrimaryDark">#05616C</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="silver">#EEEEEE</color>
+    <color name="green">#3E804C</color>
+    <color name="red">#FF0000</color>
+    <color name="textColor">#2C2C2C</color>
+    <color name="textColorNew">#00aaFF</color>
+    <color name="lihtgreenLine1">#14C38E</color>
+    <color name="lihtgreenLine2">#82DBD8</color>
+    <color name="hash">#A0BCC2</color>
+    <color name="btncolor">#FF8D29</color>
+
+    <color name="success">#1ec659</color>
+    <color name="failure">#d30915</color>
+    <color name="grey">#D6D6D6</color>
+
+    <color name="bg">#F0F0F0</color>
+    <color name="purple">#008080</color>
+
+    <color name="orangered">#FF4500</color>
+    <color name="yellow">#FFD24C</color>
+
+</resources>
